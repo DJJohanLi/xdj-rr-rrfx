@@ -25,8 +25,8 @@ FX ON/OFF, LEVEL/DEPTH and quantize, the same way the 3 stock effects do.
 1. Download `RRFX_v1.0.0_usb.zip` from the [Releases](../../releases) page.
 2. Copy **`autoexec.bin`** and **`RRFX_ARM.txt`** to the **root** of the USB stick.
 3. Power on the XDJ-RR and wait until it has **fully booted**.
-4. Insert the stick. After a few seconds the stick has a new folder
-   `RRFX_UI_V100/attempt-1/`. Its `log.txt` should end with
+4. Insert the stick and wait until the USB light and indicator stop blinking. The stick
+   then has a new folder `RRFX_UI_V100/attempt-1/`. Its `log.txt` should end with
    `RESULT=LOADED_USE_THE_ARROWS_HOLD_BOTH_1_2S`.
 5. Remove the stick (optional). The mod stays active until you power off.
 
