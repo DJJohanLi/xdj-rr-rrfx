@@ -1,0 +1,35 @@
+# Build output (release files are attached to GitHub Releases, never committed)
+build/
+*.o
+autoexec.bin
+autoexec.sh
+rrfx_ui*.so
+rbp_inject
+tests/harness
+harness_result.txt
+
+# NEVER COMMIT: device keys, firmware and Pioneer/AlphaTheta material
+*.key
+*key*.txt
+*.UPD
+*.upd
+*.cramfs
+*.iso
+*.mot
+rbp
+pdj/
+rootfs*/
+runtime/
+private/
+private-inputs/
+imagedata*
+*.so.[0-9]*
+*.tar.gz
+*.zip
+
+# Logs copied from the unit (may be shared deliberately in issues instead)
+RRFX_UI_V*/
+
+# Python cache
+__pycache__/
+*.pyc

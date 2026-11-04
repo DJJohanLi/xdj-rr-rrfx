@@ -1,0 +1,2 @@
+RRFX v1.0.0 arm marker. Keep this file on the stick next to autoexec.bin.
+It is never consumed. Without it, autoexec.bin does nothing.
