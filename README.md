@@ -1,3 +1,4 @@
+![RRFX](docs/rrfx-social-preview.png)
 # RRFX: all 8 Beat FX on the Pioneer XDJ-RR
 
 The XDJ-RR's Beat FX switch only reaches 3 effects (Echo, Reverb, Flanger), but its
